@@ -189,6 +189,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+postgres_data
+
 # Windows shortcuts
 *.lnk
 
